@@ -1,7 +1,7 @@
 # sift
 
 ## Summary
-Sift is a email verifier and cleaner. It's just a prototype that build on my on interest to understand how can we build something like NeverBounce or DeBounce with simple logics and this can be the solution for small use cases which do not need higher accuracy.
+Sift is a email verifier and cleaner. It's just a prototype that build on my on interest to understand how can we build something like *Mailboxlayer*, *NeverBounce* or *DeBounce* with simple logics and this can be the solution for small use cases which do not need higher accuracy.
 
 ## How it functions? {#working-principle}
 Entire Email filter system splitted into multiple steps, they are:

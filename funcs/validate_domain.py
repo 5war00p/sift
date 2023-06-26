@@ -22,3 +22,5 @@ def is_valid_domain(domain: str) -> bool:
     except dns.resolver.NXDOMAIN as e:
         print(e)
         return False
+    
+    return False
