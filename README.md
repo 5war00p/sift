@@ -3,6 +3,7 @@
 ## Summary
 Sift is a email verifier and cleaner. It's just a prototype that build on my on interest to understand how can we build something like *Mailboxlayer*, *NeverBounce* or *DeBounce* with simple logics and this can be the solution for small use cases which do not need higher accuracy.
 
+<!----><a name="how_it_functions"></a>
 ## How it functions?
 Entire Email filter system splitted into multiple steps, they are:
 ```
@@ -25,7 +26,7 @@ pip install -r requirements.txt
 ```
 
 ## It can be extend to
-Additionally to the above steps [[2](#sift)], one can take this to further, by adding:
+Additionally to the above steps [[2]](#how_it_functions) one can take this to further, by adding:
 
 ### 1. Catch-all mailbox
 A catch-all mailbox, also known as a wildcard mailbox or default mailbox, is an email address setup that collects all incoming email messages sent to any email address within a specific domain, even if the recipient email address does not exist.
