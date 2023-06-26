@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 
 ## It can be extend to
-Additionally to the above steps [[2](#how-it-functions?)], one can take this to further, by adding:
+Additionally to the above steps [[2](##how-it-functions?)], one can take this to further, by adding:
 
 ### 1. Catch-all mailbox
 A catch-all mailbox, also known as a wildcard mailbox or default mailbox, is an email address setup that collects all incoming email messages sent to any email address within a specific domain, even if the recipient email address does not exist.
